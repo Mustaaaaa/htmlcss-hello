@@ -3,3 +3,13 @@
     padding: 0;
     margin: 15px;
 }
+body{
+    background-color: rgb(12, 199, 137);
+}
+h1{
+    font-size: 120px;
+    color: rgb(138, 9, 9);
+    text-align: center;
+    margin-top: 15px;
+    font-family: Georgia;
+}
